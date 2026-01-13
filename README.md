@@ -1,6 +1,6 @@
 # 🚕 ETL NYC Taxi Data Pipeline
 
-**Pipeline ETL production** transformant et analysant les données de trajets taxi NYC (50M+ records) avec validation qualité et dashboards Power BI pour automatiser le reporting mobilité et optimiser les KPIs.
+**Production ETL Pipeline** transformant et analysant les données de trajets taxi NYC (50M+ records) avec validation qualité et dashboards Power BI pour automatiser le reporting mobilité et optimiser les KPIs.
 
 ---
 

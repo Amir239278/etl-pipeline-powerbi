@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+uv.lock
+pyproject.toml
+.python-version
+.env
+
+
+# folders
+img/
+data_clean/*
+data_brut/*
+pw_BI_desk/*
+
