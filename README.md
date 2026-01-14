@@ -74,14 +74,14 @@ Dans le dossier `powerbi/` :
 
 ## 📸 Captures du projet
 
-1. Vue globale des KPIs  
 ![Vue globale des KPIs](images/dashboard_kpi_overview.png)
 
-2. Analyse temporelle  
-![Analyse temporelle](images/dashboard_time_trends.png)
+![Carte des trajets NYC – Vue 1](images/Taxi-NYC-1.png)
 
-3. Analyse géographique  
-![Analyse géographique](images/dashboard_geo_view.png)
+![Carte des trajets NYC – Vue 2](images/Taxi-NYC-2.png)
+
+![Carte des trajets NYC – Vue 3](images/Taxi-NYC-3.png)
+
 
 ---
 
